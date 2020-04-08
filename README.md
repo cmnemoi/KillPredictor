@@ -6,7 +6,7 @@ Suffisait qu'il y en ait egalement dans mon jeu prefere et voilà.
 
 L'application fonctionne à merveille et donne des resultats coherents empiriquement. Les calculs sont principalement bases sur un simple ajout de variables binomiales, mais ce qui etait tout à fait honorable pour un première/terminale S à l'epoque et montrait une bonne comprehension de ses notions.
 
-Le code source quant à lui est DEGUEULASSE, vu mon apprentissage autodidacte, quasiment illisible et ne respecte quasi aucune bonne pratique. On notera tout simplement la fonction FourreToutDegeulasse, je cite, qui fait tous les calculs...
+Le code source quant à lui est DEGUEULASSE, vu mon apprentissage autodidacte, quasiment illisible et ne respecte quasi aucune bonne pratique. On notera tout simplement la fonction FourreToutDegeulasse, je cite, qui fait tous les calculs... On notera quand même la tentative de mettre des commentaires !
 
 Elle fonctionne sur mon ordinateur, mais aux dernières nouvelles, le deploiement Qt ne fonctione pas si vous ne l'avez pas sur votre ordinateur.
 Si cela vous interesse j'essayerais d'arranger ça. Sinon, un screen : https://cdn.discordapp.com/attachments/694975176022163526/697315892782039060/KP.png
